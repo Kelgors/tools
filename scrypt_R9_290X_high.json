@@ -1,0 +1,20 @@
+{
+  "pools": [],
+  "api-listen": true,
+  "api-allow": "W:127.0.0.1,W:23.256.58.114",
+  "api-port": 7777,
+  "api-groups": "P:switchpool:addpool:removepool:restart:save:*",
+  "scrypt": true,
+  "auto-fan": true,
+  "device": 0,
+  "gpu-threads": 1,
+  "gpu-engine": 1000,
+  "gpu-memclock": 1450,
+  "gpu-powertune": 20,
+  "intensity": 18,
+  "temp-target": 79,
+  "vectors": 1,
+  "worksize": 256,
+  "lookup-gap": 2,
+  "thread-concurrency": 33792
+}
