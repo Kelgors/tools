@@ -1,5 +1,5 @@
 (function (global) {
-  'use strict';
+  "use strict";
   var
     ID = 0,
     SUPER = Eventable.prototype;
